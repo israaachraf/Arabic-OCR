@@ -1,0 +1,36 @@
+folders 23
+[INFO] processed 1000/1146
+[INFO] processed 1000/1583
+[INFO] processed 1000/3118
+[INFO] processed 2000/3118
+[INFO] processed 3000/3118
+[INFO] processed 1000/2070
+[INFO] processed 2000/2070
+[INFO] processed 1000/1546
+[INFO] processed 1000/1140
+[INFO] processed 1000/1214
+[INFO] processed 1000/1467
+trainlabels  ['Qaf' 'Qaf' 'Qaf' ... 'zen' 'zen' 'zen']
+[SVM] Training
+[SVM] write model
+out_label  ['kaf'] actual  theh
+out_label  ['teh'] actual  feh
+out_label  ['yeh'] actual  heh
+out_label  ['teh'] actual  beh
+out_label  ['lam'] actual  non
+out_label  ['lam'] actual  teh
+out_label  ['non'] actual  theh
+out_label  ['alf'] actual  lam
+out_label  ['heh'] actual  lam
+out_label  ['yeh'] actual  dal
+out_label  ['waw'] actual  heh
+out_label  ['yeh'] actual  beh
+out_label  ['alf'] actual  lam
+out_label  ['beh'] actual  alf
+out_label  ['lam'] actual  teh
+out_label  ['yeh'] actual  beh
+out_label  ['waw'] actual  lam
+out_label  ['yeh'] actual  dal
+out_label  ['heh'] actual  mem
+out_label  ['alf'] actual  non
+[SVM] Accuracy: 97.88%
